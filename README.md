@@ -2,9 +2,12 @@
 
 **PRATHAMESH RUDRAKSHAWAR**
 
-135, Hermitage Apartment, Balgriffin, Malahide Road, Dublin 7 
-prathameshr@gmail.com | +353 894985084
-LinkedIn [https://www.linkedin.com/in/prathameshr]prathameshr | GitHub [https://prathameshr.github.io]prathameshr
+135, Hermitage Apartment, Balgriffin, Malahide Road, Dublin 7
+
+[prathameshr@gmail.com](prathameshr@gmail.com) | +353-894985084
+
+LinkedIn [prathameshr](https://www.linkedin.com/in/prathameshr) | GitHub [prathameshr](https://prathameshr.github.io)
+
 
 **SUMMARY**
 Over 10 years of experience with enterprise application and web development.
@@ -33,13 +36,4 @@ REST, SOAP, XML
 Continuous Integration (Jenkins), SonarQube, GitHub
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
