@@ -9,11 +9,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# SKILLS
 
-# Header 1
-## Header 2
-### Header 3
+## Languages
+Java, C++, C, HTML, JavaScript
+
+## Frameworks / Libraries
+Spring Boot, JPA/Hibernate, Android
+
+## Data
+Oracle, MySQL
+
+## Middleware
+REST, SOAP, XML
+
+## Environment / Infrastructure
+Continuous Integration (Jenkins), SonarQube, GitHub
+
 
 - Bulleted
 - List
