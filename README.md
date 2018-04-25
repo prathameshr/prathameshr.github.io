@@ -11,9 +11,13 @@ LinkedIn [prathameshr](https://www.linkedin.com/in/prathameshr) | GitHub [pratha
 
 **SUMMARY**
 Over 10 years of experience with enterprise application and web development.
+
 •	Comprehensive understanding of client’s needs for the proper management and delivery of projects.
+
 •	Ability to support and sustain a positive work environment that fosters team performance with strong communication and relationship management skills.
+
 •	Diverse background with fast learning skills, creative analytical abilities, good technical and innovative problem-solving skills.
+
 •	Good knowledge of Data Structures and Algorithms.
 
 
